@@ -29,6 +29,6 @@
     "chai": "^4.2.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
     "jsdoc": "^3.6.11",
-    "mocha": "^7.0.1"
+    "mocha": "^7.2.0"
   }
 }
